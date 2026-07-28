@@ -8,7 +8,7 @@ This Power BI dashboard provides an executive overview of Amazon sales performan
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Amazon Sales Performance Dashboard](Amazon%20dashboard%20image.jpg)
 
 ---
 
